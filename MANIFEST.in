@@ -1,0 +1,4 @@
+include bo/schema.sql
+graft bo/static
+graft bo/templates
+global-exclude *.pyc
